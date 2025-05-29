@@ -1,5 +1,5 @@
 def intro():
-    print("Welcome change name!")
+    print("Welcome to adventure name!")
     print("You're standing at the edge of a dark forest.")
     print("There are two paths ahead of you.")
     print("Do you want to go left or right?")
