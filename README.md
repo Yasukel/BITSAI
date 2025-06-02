@@ -24,5 +24,5 @@ You can send a message, and the API will return a smart response using OpenAI's 
 ### 1. Clone the project
 
 ```bash
-git clone https://github.com/your-username/genai-fastapi.git
+git clone https://github.com/Yasukel/genai-fastapi.git
 cd genai-fastapi
